@@ -1,5 +1,4 @@
 ## Hi there 👋
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/678713887dbe4fb0269fb22f?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **romeoantony/romeoantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
