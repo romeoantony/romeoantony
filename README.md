@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind, ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://romeoantony.github.io/](https://romeoantony.github.io/)
+- 👨‍💻 Portfolio: [https://romeoantony.github.io/](https://romeoantony.github.io/)
 
 - 📫 How to reach me **romeoantony1999@gmail.com**
 
