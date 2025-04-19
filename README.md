@@ -6,7 +6,7 @@
 - 👨‍💻 Portfolio: [https://romeoantony.github.io/](https://romeoantony.github.io/)
 
 - 📫 How to reach me **romeoantony1999@gmail.com**
-- 
+
 <p align="left">
 </p>
 
